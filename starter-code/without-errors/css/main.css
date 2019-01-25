@@ -203,3 +203,35 @@ hr {
 .ad img {
   margin: auto;
 }
+
+#main article{
+  width: 700px;
+ /* border: 1px solid black;*/
+  margin-right: 30px;
+}
+
+.module {
+  margin-top: 0 ;
+  width: 300px;
+  /*border: 1px solid black;*/
+  margin-left: 57px;
+}
+
+#sidebar {
+  width: 890px;
+  float: right;
+}
+
+  #main{
+    display: flex;
+  }
+
+@media screen and (max-width: 800px) {
+  p {
+    color: green;
+    font-size: 20px;
+  }
+
+}
+/* CSS Add-ons
+/*--
